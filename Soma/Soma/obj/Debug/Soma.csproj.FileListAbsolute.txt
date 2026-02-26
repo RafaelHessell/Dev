@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\Soma\Soma\bin\Debug\Soma.exe.config
+C:\Users\Aluno\source\repos\Soma\Soma\bin\Debug\Soma.exe
+C:\Users\Aluno\source\repos\Soma\Soma\bin\Debug\Soma.pdb
+C:\Users\Aluno\source\repos\Soma\Soma\obj\Debug\Soma.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Soma\Soma\obj\Debug\Soma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\Soma\Soma\obj\Debug\Soma.Form1.resources
+C:\Users\Aluno\source\repos\Soma\Soma\obj\Debug\Soma.Properties.Resources.resources
+C:\Users\Aluno\source\repos\Soma\Soma\obj\Debug\Soma.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Soma\Soma\obj\Debug\Soma.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Soma\Soma\obj\Debug\Soma.exe
+C:\Users\Aluno\source\repos\Soma\Soma\obj\Debug\Soma.pdb
